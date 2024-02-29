@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Module/Module.iml" filepath="$PROJECT_DIR$/Module/Module.iml" />
-      <module fileurl="file://$PROJECT_DIR$/s2.iml" filepath="$PROJECT_DIR$/s2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plastoi_Razvan_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Plastoi_Razvan_ActivitateCTS2024.iml" />
     </modules>
   </component>
 </project>
