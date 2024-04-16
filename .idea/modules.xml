@@ -3,12 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module8/Composite/Composite.iml" filepath="$PROJECT_DIR$/Module8/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module9/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Module9/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module3/Module3.iml" filepath="$PROJECT_DIR$/Module3/Module3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module4/Module4.iml" filepath="$PROJECT_DIR$/Module4/Module4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module5/Module5.iml" filepath="$PROJECT_DIR$/Module5/Module5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module8/Module8.iml" filepath="$PROJECT_DIR$/Module8/Module8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module9/Module9.iml" filepath="$PROJECT_DIR$/Module9/Module9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plastoi_Razvan_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Plastoi_Razvan_ActivitateCTS2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module9/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Module9/Proxy/Proxy.iml" />
     </modules>
   </component>
 </project>
